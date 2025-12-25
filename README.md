@@ -22,9 +22,3 @@
 - **Authentication:** Clerk
 - **Real-Time Sync:** Socket.io
 - **AI Integration:** GeminiAI (or similar)
-
----
-
-Made with ❤️ by Aleph Lakra, Evan Mathew, Atif Sawant & Sujal Shinde  
-Under the guidance of Mrs. Ujala Patil  
-Fr. C. Rodrigues Institute of Technology, Navi Mumbai
